@@ -1,0 +1,26 @@
+.env
+*.log
+__pycache__/
+*.pyc
+.DS_Store
+# Python
+__pycache__/
+*.py[cod]
+*.class
+venv/
+env/
+
+# Logs
+*.log
+
+# Docker
+.docker/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
