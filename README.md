@@ -3,8 +3,6 @@
 ## Overview
 A scalable, real-time log analysis platform built with the ELK (Elasticsearch, Logstash, Kibana) Stack. This project demonstrates the implementation of a production-grade logging system with real-time visualization and analysis capabilities.
 
-![ELK Stack Architecture](https://via.placeholder.com/800x400?text=ELK+Stack+Architecture)
-
 ## Key Features
 - Real-time log ingestion and processing
 - Multi-threaded log simulation for testing
